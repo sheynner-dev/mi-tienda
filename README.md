@@ -18,17 +18,17 @@ Lo desarrollé combinando un **backend en Node.js + Express** con un **frontend 
 
 ## 📂 Estructura de carpetas
 📦 mi-api
-┣ 📂 controllers
-┃ ┗ 📜 usuarioController.js # Lógica CRUD de usuarios
-┣ 📂 models
-┃ ┗ 📜 usuario.js # Modelo Sequelize
-┣ 📂 routes
-┃ ┗ 📜 usuarios.js # Rutas de la API
-┣ 📂 public
-┃ ┗ 📜 index.html # Frontend React (UMD + Tailwind)
-┣ 📜 index.js # Servidor principal Express
-┣ 📜 package.json
-┗ 📜 README.md
+ ┣ 📂 controllers
+ ┃ ┗ 📜 usuarioController.js   # Lógica CRUD de usuarios
+ ┣ 📂 models
+ ┃ ┗ 📜 usuario.js             # Modelo Sequelize
+ ┣ 📂 routes
+ ┃ ┗ 📜 usuarios.js            # Rutas de la API
+ ┣ 📂 public
+ ┃ ┗ 📜 index.html             # Frontend React (UMD + Tailwind)
+ ┣ 📜 index.js                # Servidor principal Express
+ ┣ 📜 package.json
+ ┗ 📜 README.md
 ## ⚙️ Endpoints disponibles
 
 ### Usuarios
