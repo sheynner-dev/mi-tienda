@@ -36,17 +36,25 @@ Lo desarrollé combinando un **backend en Node.js + Express** con un **frontend 
 
 ---
 
-## 🖼️ Captura de la aplicación
+🖼️ Capturas de la aplicación
+Vista principal - Lista de usuarios
+https://github.com/user-attachments/assets/e1652a4d-9033-465a-87ec-0ea815a3cdd0
 
-![Gestión de Usuarios - Sheynner Zavala](https://github.com/user-attachments/assets/e1652a4d-9033-465a-87ec-0ea815a3cdd0)
+Formulario de creación de usuario
+https://github.com/user-attachments/assets/3344d016-8b7e-4e47-84c4-5b7a3af5c8c8
 
-*Interfaz de gestión de usuarios desarrollada por Sheynner Zavala*
+Formulario de edición de usuario
+https://github.com/user-attachments/assets/04273b3f-df56-4d3c-9c68-7db1e868bb8c
+
+Modal de confirmación para eliminar
+https://github.com/user-attachments/assets/8f0dffee-db49-46fb-b196-77c802a9a281
+
+Vista responsive en móvil
+https://github.com/user-attachments/assets/6cc19046-22ee-4101-a097-734609d32776
+
+Interfaz de gestión de usuarios desarrollada por Sheynner Zavala
+
 
 ---
 
-## 🚀 Instalación y uso
 
-1. **Clonar el proyecto**
-   ```bash
-   git clone <url-del-repositorio>
-   cd mi-api
