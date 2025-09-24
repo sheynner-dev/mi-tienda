@@ -40,6 +40,10 @@ Lo desarrollé combinando un **backend en Node.js + Express** con un **frontend 
 - `POST /api/usuario/crear` → crea un nuevo usuario.
 - `PUT /api/usuario/actualizar/:id` → actualiza un usuario por ID.
 - `DELETE /api/usuario/eliminar/:id` → elimina un usuario por ID.
-
+### Rutas
+- `GET /http://localhost:3000/api/usuario/listar
+- `POST /http://localhost:3000/api/usuario/crear
+- `PUT /http://localhost:3000/api/usuario/actualizar/:id
+- `DELETE /http://localhost:3000/api/usuario/eliminar/:id
 ### Extra
 - carga el frontend (`public/index.html`).
