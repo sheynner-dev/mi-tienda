@@ -16,20 +16,6 @@ Lo desarrollé combinando un **backend en Node.js + Express** con un **frontend 
 
 ---
 
-## 📂 Estructura de carpetas
-📦 mi-api
-┣ 📂 controllers
-┃ ┗ 📜 usuarioController.js # Lógica CRUD de usuarios
-┣ 📂 models
-┃ ┗ 📜 usuario.js # Modelo Sequelize
-┣ 📂 routes
-┃ ┗ 📜 usuarios.js # Rutas de la API
-┣ 📂 public
-┃ ┗ 📜 index.html # Frontend React (UMD + Tailwind)
-┣ 📜 index.js # Servidor principal Express
-┣ 📜 package.json
-┗ 📜 README.md
-
 
 ## ⚙️ Endpoints disponibles
 
@@ -54,6 +40,9 @@ Lo desarrollé combinando un **backend en Node.js + Express** con un **frontend 
 
 ### Vista principal - Lista de usuarios
 ![Vista principal](https://github.com/user-attachments/assets/e1652a4d-9033-465a-87ec-0ea815a3cdd0)
+
+### Formulario de creación de usuario
+![Formulario de creación de usuario](https://github.com/user-attachments/assets/6cc19046-22ee-4101-a097-734609d32776)
 
 ### Formulario de creación de usuario
 ![Formulario de creación](https://github.com/user-attachments/assets/3344d016-8b7e-4e47-84c4-5b7a3af5c8c8)
