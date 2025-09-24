@@ -47,3 +47,4 @@ Lo desarrollé combinando un **backend en Node.js + Express** con un **frontend 
 - `DELETE /http://localhost:3000/api/usuario/eliminar/:id`
 ### Extra
 - carga el frontend (`public/index.html`).
+<img width="1872" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1652a4d-9033-465a-87ec-0ea815a3cdd0" />
