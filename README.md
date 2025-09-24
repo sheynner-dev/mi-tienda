@@ -47,11 +47,11 @@ Lo desarrollé combinando un **backend en Node.js + Express** con un **frontend 
 ### Formulario de edición de usuario
 ![Formulario de edición](https://github.com/user-attachments/assets/3344d016-8b7e-4e47-84c4-5b7a3af5c8c8)
 
-### Formulario de edición de usuario
-![Formulario de edición](https://github.com/user-attachments/assets/04273b3f-df56-4d3c-9c68-7db1e868bb8c)
-
 ### Modal de confirmación para eliminar
-![Modal de confirmación](https://github.com/user-attachments/assets/8f0dffee-db49-46fb-b196-77c802a9a281)
+![Modal de confirmación](https://github.com/user-attachments/assets/04273b3f-df56-4d3c-9c68-7db1e868bb8c)
+
+### Buscar usuario por nombre,email o ID
+![Buscar usuario](https://github.com/user-attachments/assets/8f0dffee-db49-46fb-b196-77c802a9a281)
 
 *Interfaz de gestión de usuarios desarrollada por Sheynner Zavala*
 
