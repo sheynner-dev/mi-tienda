@@ -32,7 +32,7 @@ Lo desarrollé combinando un **backend en Node.js + Express** con un **frontend 
 - `DELETE http://localhost:3000/api/usuario/eliminar/:id`
 
 ### Extra
-- `GET /` → carga el frontend (`public/index.html`).
+- `carga el frontend (`public/index.html`).
 
 ---
 
