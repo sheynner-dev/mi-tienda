@@ -17,7 +17,18 @@ Lo desarrollé combinando un **backend en Node.js + Express** con un **frontend 
 ---
 
 ## 📂 Estructura de carpetas
-
+📦 mi-proyecto
+┣ 📂 controllers
+┃ ┗ 📜 usuarioController.js # Lógica CRUD de usuarios
+┣ 📂 models
+┃ ┗ 📜 usuario.js # Modelo Sequelize (ejemplo)
+┣ 📂 routes
+┃ ┗ 📜 usuarios.js # Rutas de la API
+┣ 📂 public
+┃ ┗ 📜 index.html # Frontend React (UMD + Tailwind)
+┣ 📜 server.js # Servidor principal Express
+┣ 📜 package.json
+┗ 📜 README.md
 ---
 
 ## ⚙️ Endpoints disponibles
