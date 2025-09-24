@@ -19,7 +19,7 @@ Lo desarrollé combinando un **backend en Node.js + Express** con un **frontend 
 ## 📂 Estructura de carpetas
 
 ```bash
-📦 mi-proyecto
+📦 mi-api
  ┣ 📂 controllers
  ┃ ┗ 📜 usuarioController.js   # Lógica CRUD de usuarios
  ┣ 📂 models
@@ -28,7 +28,7 @@ Lo desarrollé combinando un **backend en Node.js + Express** con un **frontend 
  ┃ ┗ 📜 usuarios.js            # Rutas de la API
  ┣ 📂 public
  ┃ ┗ 📜 index.html             # Frontend React (UMD + Tailwind)
- ┣ 📜 server.js                # Servidor principal Express
+ ┣ 📜 index.js                # Servidor principal Express
  ┣ 📜 package.json
  ┗ 📜 README.md
 
